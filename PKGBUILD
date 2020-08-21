@@ -4,6 +4,7 @@ _build=202.6397.94
 pkgrel=1
 pkgdesc="The Java IDE for Professional Developers by JetBrains"
 arch=('x86_64')
+options=('!strip')
 url="https://www.jetbrains.com/idea/"
 license=('custom: https://www.jetbrains.com/legal/agreements/user.html')
 install='idea.install'

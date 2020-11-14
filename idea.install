@@ -2,7 +2,7 @@ post_install() {
     echo "-------------------------------"
     echo "You can buy a license after the 30-day trial period here:"
     echo "https://www.jetbrains.com/idea/buy/"
-    echo ""-------------------------------"
+    echo "-------------------------------"
 }
 
 post_upgrade() {
